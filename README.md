@@ -18,9 +18,7 @@
       <img height="30" src="https://github.com/lesley-hou/lesley-hou/blob/main/assets/spotify.png" />
     </a>
   </p>
-  <p>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=lesley-hou&theme=graywhite&hide_border=false" />
-  </p>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lesley-hou" alt="GitHub Streak" /></a>
   <br>
   <br>
 </div>
